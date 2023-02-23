@@ -1,0 +1,14 @@
+---
+title: KnockoutJS Tutorials Suck (But Not As Much As the Documentation)
+category: Rovani in C♯
+date: 2014-07-01
+---
+
+I am not sure why I started using [Knockout](http://knockoutjs.com/), but I have had an overall positive experience with the framework.  I was very intrigued with their hands-on tutorials built into the site, which made getting started fairly easy.  I walked through them step-by-step, writing out all of the code examples by hand, and diligently debugging typos when the example would not execute as expected.  From there, I took the simple step of starting a small side-project just to see how it would all interact.  At that point, it became quickly obvious that the tutorials suck and are missing large pieces of information that are vital to get just a basic application going.  I also found that there are two tutorials that are completely worthless in terms of getting start - they are advanced topics that I still have not found an applicable usage.
+
+
+However, the tutorials were just an hour or two of my time, and at least got me started.  The most bothersome part is the official documentation on the website.  It is terribly incomplete, and just leads to frustration.  There are lots of hidden features and unexplained function arguments that force me to take trips through search engines, which inevitably lead to a question that someone else posted on [Stack Overflow](http://stackoverflow.com/questions/tagged/knockout.js), which might hint at the answer to my problem.  It has been frustrating to have to wade through the tangled mess of tangential questions and obscure answers to maybe find something similar to my problem.  However, it has also been immensely rewarding to discover new methods of working with JavaScript, better tools for debugging, and simpler ways to manage my code.
+
+The [GitHub wiki](https://github.com/knockout/knockout/wiki) is sparse and filled with many empty templates.  The information is not reliable - I am not sure how much of is it accurate as of Knockout 3.1.  So, I am working on slowly putting together better documentation.  As I discover something new or expand on something I already know, I am adding it all to a little sidebar of notes that I keep.  My hope is that I will get enough information that I can meaningfully contribute to the wiki.  I like this project, and it is clear that plenty of other people like it.  I just wish the difficulty to realistically get started was a little lower.
+
+I am trying - this is going to be my [first little tiny toe dipping](http://opensource.com/life/14/1/get-involved-open-source-2014) in the big ocean of open source development.  We shall see how it goes.

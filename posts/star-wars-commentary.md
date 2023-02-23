@@ -1,0 +1,1 @@
+Everyone is a critic, including me. As I watch episodes of _Star Wars_ shows, I write down my running commentary. There's no context to the reactions outside of following along with the episode; or, if you have watched it, you may have had some of the same thoughts and feelings.
