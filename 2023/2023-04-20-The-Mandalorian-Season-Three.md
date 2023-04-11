@@ -90,7 +90,7 @@ I am starting to appreciate the narrative that this season is going about. The M
 - The cold open was a cute little vingiette; I do hope that it gets tied into the greater story somehow later.
 - "...taking back Mandalor" - But who __has__ Mandalor?? I'm still trying to understand that.
 - Nothing good happens when entering a banquet with chirpy, classical, background music.
-- **Cameo drop**: it actually pulls me out of the scene with this cameo. Hilarious to see them, but completely distracting.
+- **Lizzo and Jack Black**: it actually pulls me out of the scene with this cameo. Hilarious to see them, but completely distracting.
 - Katee Sackhoff's repeated look of "this can't be right" is wonderful. Why isn't there a meme of this expression?
 - Hahaha - we can't have weapons, but since weapons are part of your religion, then you get to carry the weapons and pewpew all the things.
 - **Christopher Lloyd**? This 'guns for hire' seems to be more like 'cameos for hire'.
