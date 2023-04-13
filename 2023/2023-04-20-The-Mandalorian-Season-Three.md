@@ -78,7 +78,7 @@ I am starting to appreciate the narrative that this season is going about. The M
 - Is that... a Tim Meadows sighting?! I shall join the fans in this delighting.
 - These pirates are the worst sort of incompentence.
 - What's with this consistent approach of lassoing a target, then beating/shooting it? If you can grappling hook it, can't you just shoot it first?!
-- "I am Heavy Weapons Guy, and this is my new weapon." oh, or "Vzzzzzt! Rahrahrahrah! Vrrrrr! Wahahahaaaaaa!"
+- These needs a "I am Heavy Weapons Guy, and this is my new weapon." oh, or "Vzzzzzt! Rahrahrahrah! Vrrrrr! Wahahahaaaaaa!"
 - Never fuck with a mama bear armorer, this is the way.
 - The show seems to have tried to portray this whole pirate incident as a one-and-done, but also hint that Pirate King Gorian Shard has a boss and probably a boss's boss.
 - If no one really cares about a glassed planet, does it really need to be "retaken", as if there is a looming battle? Isn't it more of a "fund the rebuilding" effort?
@@ -107,3 +107,19 @@ I am starting to appreciate the narrative that this season is going about. The M
   1. Confront the true antagonist of the quest chain.
   1. Head back to original quest giver to close things out and receive that sweet loot.
   1. Go back to main quest line.
+- I know I may sometimes fanboi on Katee Sackhoff (yes, it's her whole name, every time) - she adds more depth to the character than any other actor does to any other character in this show.
+- I FUCKING CALLED IT!!! I was right all along about the dark saber shenanigan. I feel better now.
+
+## Chapter 23: Tinker, Tailor, Soldier, Spy
+
+- So many pointless guards just standing there, doing nothing.
+- Grand Admiral Thrawn... cool... another random person that I guess I'm supposed to know? And what kind of a codename is "Project Necromancer"?
+- Post "Long Live the Empire!", I expected a "now how do I hang up on this call, again?", in true Zoom fashion.
+- How does the city not have sensors to say a vessel is approaching long before it starts hovering over the city?
+- Kids are the worst.
+- Bo-Katan, Din Djarin, Grogu, and The Armorer - that's quite the Mandalorian VIP ship.
+- Falling out of a ship and landing gracefully using a rocket pack might be on my list of life goals.
+- How have we gotten into hand-to-hand combat and there's no dark saber action?!
+- I expected an ambush, but I didn't expect Din Djarin to be isolated as a part of it.
+- "Next generation dark trooper suit"... /sigh... naming things is hard. I get it.
+- The death scene needed a good final one-liner. Paz Vizsla deserved at least that much and I'm a little surprised that Jon Favreau's ego let him get killed off without a good sign off.
