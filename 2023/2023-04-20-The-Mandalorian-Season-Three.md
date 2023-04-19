@@ -123,3 +123,21 @@ I am starting to appreciate the narrative that this season is going about. The M
 - I expected an ambush, but I didn't expect Din Djarin to be isolated as a part of it.
 - "Next generation dark trooper suit"... /sigh... naming things is hard. I get it.
 - The death scene needed a good final one-liner. Paz Vizsla deserved at least that much and I'm a little surprised that Jon Favreau's ego let him get killed off without a good sign off.
+
+
+## Chapter 24: The Return of the Aimless Plot
+
+- A 42 minute episode and they use the first three minutes on the disappointing recap.
+- In a previous episode, we saw that the jetpacks have a limited range when flying at high speeds while traversing the canyon. How can the jetpack, going full blast, make it all the way into space? This seems like a terrible oversite.
+- Din Djarin is a prize capture and they leave just two peons to escort him? Even if there's internal tracking sensors, it seems like a waste of guards. Either let him run free and save the two lackey's lives or send more guards to escort and keep him contained.
+- Jetpacks sure make ship-to-ship transfers a whole lot easier! That scene was a nice touch.
+- No really?! How much jetpack fuel do they have??
+- The Armorer charging in with hammer and wrench is hot.
+- Did they learn nothing from the last ambush? Going after the primary antagonist, _in his private lair_, is always going to lead to bad things.
+- The Din Djarin vs red suits really needed better gun-fu fight choregraphy. Having recently rewatched the _John Wick_ series, I can only dream of how awesome that fight would have been.
+- He has a super suit and they didn't show a corpse. What are the odds that Moff Gideon isn't actually dead?
+- I understand the whole thing with not taking off his helmet for anyone, but isn't he allowed to take off the armor on his day off?
+
+## What comes next?
+
+It seems there was a nice little bow tied around this series, even if it di wander a fair amount from episode to episode. I don't remember exactly how I felt about the previous two seasons as a distinct set of episodes. Which I am taking to mean that I probably felt the same way at the end of those as I do now. The story wasn't super compelling, but the show had glimpses of promise. The plot was loose and wandering and felt very trope-formulaic. I'll still be back next season, hate-watching and bullet-point ranting.
