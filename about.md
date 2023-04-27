@@ -1,5 +1,7 @@
 # David Rovani, Résumé
 
+Some new stuff.
+
 ## Passions and Motivators
 
 Even before experience, proficiencies, or technical knowledge, I put forward my passions and motivators as the key to understanding why I excel at what I do. I love the thrill of solving difficult conundrums by conceptualizing unique and innovative solutions. I get excited about people who want to learn, grow, and be challenged; I want to be their teacher and mentor. I work hard to find the root causes of a problem, be it a failure of programming, processes, or people; and I stand out in my skills at finding the path toward continued and lasting success.
