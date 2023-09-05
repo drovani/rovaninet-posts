@@ -27,3 +27,24 @@ I am going into this series with nearly no knowledge of the _Ahsoka Tano_ charac
 - Why would a member of the Sith have a braided strand of hair? It serves no practical purpose; she gains no tactical advantage having it; idleness or affection would cause its creation. It's an unnecessary and distracting character flourish. I hope there is some backstory about that braid in a future episode.
 - Are you surprised that the (ex-?)apprentice who doesn't listen to authority absconded off with the map she was told to keep in the ship? Shocking turn of events.
 - Oh snap! Anakin!!!
+- I literally fell asleep during the next 10 minutes. No idea what happened in the show. I'm sure I didn't miss anything important.
+- If it's a fancy Rubic cube, couldn't they have just had a robot work all the permutations really quickly and brute force that rock open?
+- Does anyone, and I mean _anyone_, actually believe that Sabine is dead?
+
+## Part Two: Toil and Trouble
+
+Reflecting back on the first episode, why does it take an old, encoded map, buried in an ancient puzzle, to find the location of a recently exiled Imperial leader? The protagonists aren't searching for some long-hidden treasure or some old-god in hiding. These settings aren't congruous with the reality of the modern world they actually live in.
+
+- The easiest story to tell in sci-fantasy is to say some ancient civilization built a thing and somehow no one else knows about it but the antagonist using the device.
+- As Ahsoka's ship lands on another planet, I am reminded how good Star Wars is at portraying the large and vast planets and worlds that its character inhabit - even if the stories keep coming down to a handful of people that decide the outcome of all the key conflicts.
+- The cut to a random dude standing at a control panel of some kind, and he has... maybe 10 buttons he could push. This is what Star Wars is so absolutely terrible at - with all these advancements in androids, spaceships, AI, and they haven't developed a functional control panel with labels and descriptions and utility?!
+- Well that was a really bland episode. On to the next one, I guess.
+
+## Part Three: Time to Fly
+
+- If Anakin was too old to start training when he was a little boy, how has Sabine not just aged out of the program? Why all of these inconsistencies in a vast crazy world?!
+- Well I'm glad Huyang made that same frickin' point!
+- Why were these six craft so far away from the planet? In the vast expanse of the solar system, they just happened to be in an area behind where Ahsoka dropped out of hyperspace?
+- She put on that suit really damn fast - like Clark Kent in a phone booth fast.
+- Flying whales, eh? It certainly tracks with Star Wars' creature creativity.
+- "Ah yes, standard operating procedure." I feel the same way, Huyang.
