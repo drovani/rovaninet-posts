@@ -48,3 +48,15 @@ Reflecting back on the first episode, why does it take an old, encoded map, buri
 - She put on that suit really damn fast - like Clark Kent in a phone booth fast.
 - Flying whales, eh? It certainly tracks with Star Wars' creature creativity.
 - "Ah yes, standard operating procedure." I feel the same way, Huyang.
+- Remember when Darth Vader could detect Luke from half an orbit away - how powerful does each Force user need to be to sense the other?
+- How is a minute or two enough time to confidentally turn power back on?
+
+Another bland episode; maybe next one will give us something unique to be excited about.
+
+## Part Four: Fallen Jedi
+
+- When they got to the system, their transmissions were jammed. Why would bringing comms back up have any different effect on their ability to communicate?
+- With all this talk of Thran, there's been no indication - even apocryphal - about why his return would effect so much change.
+- Removal of cloaks is a good touch - I am forever reminded of Edna's "no capes!" edict.
+- I think it would have been much cooler if the ring ship had sucked them all into its hyperspace jump and now we're in this Star Trek Voyager / Stargate Universe situation halfway across the universe.
+- Oh Anakin... blah.
