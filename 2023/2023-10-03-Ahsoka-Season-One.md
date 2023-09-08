@@ -6,7 +6,7 @@ tags:
 - starwars
 - commentary
 - disneyplus
-date: 2023-04-20
+date: 2023-10-03
 ---
 
 I am going into this series with nearly no knowledge of the _Ahsoka Tano_ character, nor any other _Star Wars_ lore outside of the movies and a few live-action shows.
