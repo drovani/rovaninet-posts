@@ -1,20 +1,30 @@
 # David Rovani, Résumé
 
-Some new stuff.
-
 ## Passions and Motivators
 
-Even before experience, proficiencies, or technical knowledge, I put forward my passions and motivators as the key to understanding why I excel at what I do. I love the thrill of solving difficult conundrums by conceptualizing unique and innovative solutions. I get excited about people who want to learn, grow, and be challenged; I want to be their teacher and mentor. I work hard to find the root causes of a problem, be it a failure of programming, processes, or people; and I stand out in my skills at finding the path toward continued and lasting success.
+With a passion for innovation, team leadership, strategic planning, and mentorship, I have created a career that centers around communication, continuous learning, and organizational influence. I focus on improvements to the people, processes, and technology that deliver ever increasing value to businesses and customers.
 
-Monotonous or repetitive tasks present their own challenges that motivate me to create automations and expose inefficiencies. Experimenting and exploring with new and creative technologies and products keeps me enthralled with the application development and developer operations space.
+I enjoy pushing the boundaries of technology and finding new ways to solve problems or improve existing processes. I have a deep love for technology and a desire to stay current with the latest trends and developments, balancing between providing high-level direction to team members and diving into the technical details of projects.
 
-I have built a reputation among my colleagues of trust and honesty, which affords me incredible leeway to pursue much of what I am passionate about. Throughout my career, I have stretched myself and my positions into greater challenges and areas of operation. I have spent years mentoring, teaching, and cultivating the next generation of developers, while still continuing to grow my own career in search of new opportunities. For these reasons, I think I will be an excellent fit for your organization’s current needs and future expansion.
+I am motivated by complex problem-solving, thriving on tackling challenging technical issues and finding creative solutions. It is particularly satisfying when it leads to improvements in the company's products or services, be they internal tools or externally facing projects.
+
+Where I get most pride from is in team leadership. Building high-performing teams, mentoring and developing talent, creating a positive work environment, fostering effective communication, setting clear expectations, and empowering decision-making... these are all some of the most rewarding moments in my career and what I strive to inspire in others every day.
 
 ## Experience & Responsibilities
 
+### Chief Technology Officer at _Nation Business Institute | NBI, Inc._
+
+September 2023 to present
+
+:::aside{.lead}
+NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including line online seminars, OnDemand streaming videos, and self-paced learning downloads.
+:::
+
+The Chief Technology Officer is a core role within the National Business Institute, pairing with the President to make up the executive leadership team. As CTO, I oversee the Technology Group and provides leadership and expertise for all facets of the technology ecosystem, including network infrastructure, IT service desk operations, application development, web development, and decision support & analytics. I am empowered to utilize my business analysis expertise to ensure that NBI’s technology infrastructure, platforms, and processes are designed to support internal business operations, digital and print marketing, online commerce, product delivery, and finance. I work closely with and collaborate with other members of NBI's senior leadership team and provide regular updates and advice to the board of directors.
+
 ### Solution Strategist at _The Maze Group_
 
-June 2021 to present
+June 2021 to August 2023
 
 :::aside{.lead}
 The Maze Group is a consulting agency focused on solutions for e-commerce, digital marketing, content strategies, and private equity acquisitions.
@@ -22,6 +32,12 @@ The Maze Group is a consulting agency focused on solutions for e-commerce, digit
 
 Projects while at _The Maze Group_
 
+- **Interim CTO** with _National Business Institute_
+  - Advisor to President for strategic technology planning, organizational strategy, and business analysis.
+  - Collaborated with the senior management to provide improved communication and insight into the development cycle and right sizing expectations for deliverables and timelines.
+  - Created detailed technology roadmap to modernize ecosystem of legacy, homegrown, unstable applications.
+  - Implemented a Backlog Management Process to triage and prioritize tickets; a UAT & QA process to mitigate against deployment regression; and a launch, contingency, and remediation plan to minimize impact to customers and the business.
+  - Led development team in implementation of Shopify storefront and migration from legacy homegrown website.
 - **Solution Architect**, Shopify storefront build with _Coty, Inc._
   - Led pre-sales discovery, project estimation, and statement of work (SOW) creation in a sales engineering role.
   - Technical architect throughout functional requirements gathering, merchant usability and expectation setting, and project prioritization triaging.
@@ -40,7 +56,7 @@ Projects while at _The Maze Group_
   - Architected integration of the Recharge subscription service between _Zwift_'s home-grown entitlement service and Shopify storefront.
   - Architected _Multipass_ integration between _Zwift_'s authentication service and Shopify storefront.
 
-### Senior Solutions Architect at _BlueBolt Solutions_
+### Director of Solution Consulting at _BlueBolt Solutions_
 
 October 2019 to June 2021
 
@@ -48,10 +64,12 @@ October 2019 to June 2021
 BlueBolt Solutions, Inc is a digital consulting agency focused on solutions for e-commerce, search, and content solutions with expertise in Shopify, Episerver, and DNN.
 :::
 
-Brought on as a general technologist to provide solutions support for projects large and small, I assisted and mentored for work on the UX front-end of projects, back-end architecture, and integrations with other systems.
+Brought on as a _Senior Solutions Architect_ general technologist to provide solutions support for projects large and small, I assisted and mentored for work on the UX front-end of projects, back-end architecture, and integrations with other systems.
 
 - Provided UX support and created integrations between a new Shopify store and custom fulfillment workflows for a leading publisher of religious books and resources serving 12,000+ products with multiple fulfillment services and product types.
-- Researched and provided detailed instructions for integrating Auth0 with Shopify and TalentLMS.
+- Researched and provided detailed instructions for integrating Auth0 with Shopify and TalentLMS, including authoring several blog posts.
+
+Promoted to the role of _Director of Solution Consulting_, leading all sales engineering efforts. Worked in conjunction with the VP of Development throughout the sales process, including introductions to the agency, preliminary scoping, project solutioning, detailed work estimates, proposal creation, closing of the sale, and hand-off to the delivery team. I was instrumental in rethinking the approach to sales engineering and creating tools to support and streamline the process. I excelled at communication across all levels of prospective customer organizations from C-level executives to line-level employees; at capturing their workflows, understanding their painpoints, and empathizing with what they viewed as keys to success.
 
 ### Director of Information Services at _IFCJ_
 
