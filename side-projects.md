@@ -2,7 +2,14 @@
 
 Some of the side projects that I have started as a way to experiment with new (to me) frameworks, languages, and other tech.
 
+## [Media Consumption](/media-consumption)
+
+In order to keep track of what shows I'm watching, on what networks, and when they are coming back for the next season - who can even remember all of this?!
+
+So I made a service to let me track what I want and I'm working to make it self-sufficient.
+
 ## [HS Mercs Helper](https://hsmercs.rovani.net)
+
 - Github Repo: [drovani/hsmercs-helper](https://github.com/drovani/hsmercs-helper)
 - [HSMercs from Scratch](/series/hsmercs-from-scratch) blog posts
 - _Last updated April 2022_
