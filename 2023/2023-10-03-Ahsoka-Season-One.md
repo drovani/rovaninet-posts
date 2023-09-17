@@ -58,5 +58,13 @@ Another bland episode; maybe next one will give us something unique to be excite
 - When they got to the system, their transmissions were jammed. Why would bringing comms back up have any different effect on their ability to communicate?
 - With all this talk of Thran, there's been no indication - even apocryphal - about why his return would effect so much change.
 - Removal of cloaks is a good touch - I am forever reminded of Edna's "no capes!" edict.
+- He destroyed the key/map! Antagonists never do that! Kudos to the writers.
 - I think it would have been much cooler if the ring ship had sucked them all into its hyperspace jump and now we're in this Star Trek Voyager / Stargate Universe situation halfway across the universe.
 - Oh Anakin... blah.
+
+## Part Five: Shadow Warrior
+
+- I am forever ruined when reading anything where "shadow" is used in a name, because now I just think of the [https://turbo.fandom.com/wiki/White_Shadow](White Shadow)
+- I'm so fucking over the "on the way to the afterlife, you just have to fight" redemption scene.
+- I want a show to let the audience actually hear what the characters do without music playing over it. Let us _really_ hear it.
+- 
