@@ -64,7 +64,9 @@ Another bland episode; maybe next one will give us something unique to be excite
 
 ## Part Five: Shadow Warrior
 
-- I am forever ruined when reading anything where "shadow" is used in a name, because now I just think of the [https://turbo.fandom.com/wiki/White_Shadow](White Shadow)
+- I am forever ruined when reading anything where "shadow" is used in a name, because now I just think of the [White Shadow](https://turbo.fandom.com/wiki/White_Shadow)
 - I'm so fucking over the "on the way to the afterlife, you just have to fight" redemption scene.
 - I want a show to let the audience actually hear what the characters do without music playing over it. Let us _really_ hear it.
-- 
+- This entire afterlife/water rescue/Anakin scene was a complete waste of screentime.
+- "A squadron of x-wings", well, except for the couple that died when the giant O ship warpped out of here.
+- I had to ask the internet what these things whale things were and how did these [Purrgil](https://disney.fandom.com/wiki/Purrgil#Star_Wars_Rebels) "take Ezra and the bad guys far far away". Just having this throwaway line reinforces my previous annoyance at how much this series expect the watcher to have also read/watched everything else in the universe's cannon.
