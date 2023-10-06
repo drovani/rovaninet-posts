@@ -60,3 +60,36 @@ Another bland episode; maybe next one will give us something unique to be excite
 - Removal of cloaks is a good touch - I am forever reminded of Edna's "no capes!" edict.
 - I think it would have been much cooler if the ring ship had sucked them all into its hyperspace jump and now we're in this Star Trek Voyager / Stargate Universe situation halfway across the universe.
 - Oh Anakin... blah.
+
+## Part Six: Far, Far Away
+
+- I was SO FUCKING BORED with Part 5 that I didn't even take notes on it. That's how boring the episode was.
+- This whole show _still_ hasn't give the audience any reason to understand why Sabine is so desperate to rescue Ezra. We're told to care without convincing us to care.
+- It's no Imperial Deathmatch entrance theme, but it was dramatic enough to get me to pause what I was doing and take notice.
+- There are Tuskar all the way in another galaxy. Cool, cool.
+- Again, a species from another galaxy and they can just communicate like she took that thing's language as an elective in college.
+
+## Part Seven: Dreams and Madness
+
+- Random cameo used as a McGuffin, how fortunate.
+
+## Part Eight: The Jedi, the Witch, and the Warlord
+
+- When the writers can't even be serious about the title of the episode, how is the audience supposed to take it seriously?
+- Great, just what this universe needs, magic flaming swords.
+- Stormtrooper Zombies? hahahahahahahahaha
+- Why did Ezra wait so long before force-pulling his lightsaber? It seems like that should have been a quick and easy thing to do.
+- Ahsoka vs Morgan has been the best choreographed fight of the series and the simplicity of the cinematography lets the craft really shine.
+- Did no one think to warn Thrawn that there was a ship flying around on the surface?
+- Long rolling hills, vast mountain ranges with enormous statues carved into them, distant towers - is this a LotR set?
+- 
+
+## Final Thoughts
+
+There is a lot of potential for a whole season or more with the four main characters that were left on this distant planet. Plot threads about how Ahsoka, Sabine, and Huyang are managing life and integrating with the local politics, cultures, and various norms. Another perspective on that same jouney could be shown from Shin's point of view. And all this lore about the witches and ancient magic along with Baylan's search for something greater than himself would make for another plot line. There is so much potential here!
+
+I am sure, though, that Season 2 (if it happens) will have the ASH trio making it back to the prime galaxy by the end of episode three.
+
+Absolutely superb acting by Ray Stevenson and Lars Mikkelsen; good performances by Ivanna Sakhno, Natasha Liu Bordizzo, and Rosario Dawson. Huyang was the hero of the show and David Tennat's voice was key to the droid being a remarkable character. 
+
+Also, Wes Chatham was robbed of a chance to show off his acting skills.
