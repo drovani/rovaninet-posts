@@ -12,12 +12,12 @@ Where I get most pride from is in team leadership. Building high-performing team
 
 ## Experience & Responsibilities
 
-### Chief Technology Officer at _Nation Business Institute | NBI, Inc._
+### Chief Technology Officer at _National Business Institute | NBI, Inc._
 
 September 2023 to present
 
 :::aside{.lead}
-NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including line online seminars, OnDemand streaming videos, and self-paced learning downloads.
+NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including live in-person events, live online seminars, OnDemand streaming videos, and self-paced learning downloads.
 :::
 
 The Chief Technology Officer is a core role within the National Business Institute, pairing with the President to make up the executive leadership team. As CTO, I oversee the Technology Group and provides leadership and expertise for all facets of the technology ecosystem, including network infrastructure, IT service desk operations, application development, web development, and decision support & analytics. I am empowered to utilize my business analysis expertise to ensure that NBI’s technology infrastructure, platforms, and processes are designed to support internal business operations, digital and print marketing, online commerce, product delivery, and finance. I work closely with and collaborate with other members of NBI's senior leadership team and provide regular updates and advice to the board of directors.
@@ -27,8 +27,10 @@ The Chief Technology Officer is a core role within the National Business Institu
 June 2021 to August 2023
 
 :::aside{.lead}
-The Maze Group is a consulting agency focused on solutions for e-commerce, digital marketing, content strategies, and private equity acquisitions.
+The Maze Group is a consulting agency focused on solutions for Salesforce and Shopify e-commerce, digital marketing, content strategies, and private equity acquisitions.
 :::
+
+At Maze, I was frequently the second person at the company to speak to prospective clients, accompanying the Account Executive. I would meet and engage with C-Level stakeholders, directors charged with implementing strategy, and the individual contributors that would be deep in the proposed solutions.
 
 Projects while at _The Maze Group_
 
