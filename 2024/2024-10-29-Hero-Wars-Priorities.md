@@ -16,24 +16,24 @@ The conversation with ClaudeAI was very informative as to how I could get meanin
 
 | Team   | Type            | Members                                          | Strong Against                                            | Weak Against                                                               |
 | ------ | --------------- | ------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Team 1 | Control/Burst   | Aurora - Dante - Nebula - Iris - Octavia         | • ODH teams<br>• Keira teams<br>• Physical burst teams    | • Strong healing comps<br>• Jorgen teams<br>• Heavy control teams          |
-| Team 2 | Sustain/Control | Astaroth - Maya - Jhu - Martha - Jorgen          | • Tank heavy teams<br>• Dodge teams<br>• Slow-build teams | • Burst damage teams<br>• Celeste (healing reduction)<br>• Strong CC teams |
-| Team 3 | Honor           | Galahad - Andvari - Helios - Sebastian - Tristan | • K'arkh teams<br>• Crit teams<br>• Physical teams        | • Magic damage teams<br>• Heavy control teams<br>• Teams with Jorgen       |
+| Team 1 | Control/Burst   | Aurora - Dante - Nebula - Iris - Octavia         | ODH teams; Keira teams; Physical burst teams    | Strong healing comps; Jorgen teams; Heavy control teams          |
+| Team 2 | Sustain/Control | Astaroth - Maya - Jhu - Martha - Jorgen          | Tank heavy teams; Dodge teams; Slow-build teams | Burst damage teams; Celeste (healing reduction); Strong CC teams |
+| Team 3 | Honor           | Galahad - Andvari - Helios - Sebastian - Tristan | K'arkh teams; Crit teams; Physical teams        | Magic damage teams; Heavy control teams; Teams with Jorgen       |
 
 # Common Hero War Team Acronyms and Counters
 
-| Acronym | Hero Images                                                                                                                                                                                                                                                                                  | Heroes                       | Team Type       | Best Counter Team                 |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------- | --------------------------------- |
-| ADA     | ![Astaroth](https://herowars.rovani.net/.netlify/images?url=/images/heroes/astaroth.webp&w=32) ![Daredevil](https://herowars.rovani.net/.netlify/images?url=/images/heroes/daredevil.webp&w=32) ![Alvanor](https://herowars.rovani.net/.netlify/images?url=/images/heroes/alvanor.webp&w=32) | Astaroth, Daredevil, Alvanor | Physical Damage | Team 2 (Control with Jorgen)      |
-| AOH     | ![Alvanor](https://herowars.rovani.net/.netlify/images?url=/images/heroes/alvanor.webp&w=32) ![Orion](https://herowars.rovani.net/.netlify/images?url=/images/heroes/orion.webp&w=32) ![Helios](https://herowars.rovani.net/.netlify/images?url=/images/heroes/helios.webp&w=32)             | Alvanor, Orion, Helios       | Magic Damage    | Team 3 (Honor with magic defense) |
-| CKK     | ![Cleaver](https://herowars.rovani.net/.netlify/images?url=/images/heroes/cleaver.webp&w=32) ![Karkh](https://herowars.rovani.net/.netlify/images?url=/images/heroes/karkh.webp&w=32) ![Kai](https://herowars.rovani.net/.netlify/images?url=/images/heroes/kai.webp&w=32)                   | Cleaver, K'arkh, Kai         | Physical Burst  | Team 3 (Andvari counters K'arkh)  |
-| DODGE   | ![Aurora](https://herowars.rovani.net/.netlify/images?url=/images/heroes/aurora.webp&w=32) ![Dante](https://herowars.rovani.net/.netlify/images?url=/images/heroes/dante.webp&w=32) ![Dark Star](https://herowars.rovani.net/.netlify/images?url=/images/heroes/dark-star.webp&w=32)         | Aurora, Dante, Dark Star     | Evasion Based   | Team 2 (Jhu ignores dodge)        |
-| FArT    | ![Fafnir](https://herowars.rovani.net/.netlify/images?url=/images/heroes/fafnir.webp&w=32) ![Artemis](https://herowars.rovani.net/.netlify/images?url=/images/heroes/artemis.webp&w=32) ![Tristan](https://herowars.rovani.net/.netlify/images?url=/images/heroes/tristan.webp&w=32)         | Fafnir, Artemis, Tristan     | Physical Damage | Team 1 (Control disrupts combo)   |
-| JJI     | ![Jet](https://herowars.rovani.net/.netlify/images?url=/images/heroes/jet.webp&w=32) ![Judge](https://herowars.rovani.net/.netlify/images?url=/images/heroes/judge.webp&w=32) ![Isaac](https://herowars.rovani.net/.netlify/images?url=/images/heroes/isaac.webp&w=32)                       | Jet, Judge, Isaac            | Physical Crit   | Team 3 (Helios counters crits)    |
-| KHK     | ![Karkh](https://herowars.rovani.net/.netlify/images?url=/images/heroes/karkh.webp&w=32) ![Helios](https://herowars.rovani.net/.netlify/images?url=/images/heroes/helios.webp&w=32) ![Kai](https://herowars.rovani.net/.netlify/images?url=/images/heroes/kai.webp&w=32)                     | K'arkh, Helios, Kai          | Hybrid Damage   | Team 3 (Andvari counters K'arkh)  |
-| KSJ     | ![Karkh](https://herowars.rovani.net/.netlify/images?url=/images/heroes/karkh.webp&w=32) ![Sebastian](https://herowars.rovani.net/.netlify/images?url=/images/heroes/sebastian.webp&w=32) ![Jet](https://herowars.rovani.net/.netlify/images?url=/images/heroes/jet.webp&w=32)               | K'arkh, Sebastian, Jet       | Physical Burst  | Team 3 (Andvari counters K'arkh)  |
-| ODH     | ![Orion](https://herowars.rovani.net/.netlify/images?url=/images/heroes/orion.webp&w=32) ![Dorian](https://herowars.rovani.net/.netlify/images?url=/images/heroes/dorian.webp&w=32) ![Helios](https://herowars.rovani.net/.netlify/images?url=/images/heroes/helios.webp&w=32)               | Orion, Dorian, Helios        | Magic Damage    | Team 1 (Control disrupts combo)   |
-| OSH     | ![Orion](https://herowars.rovani.net/.netlify/images?url=/images/heroes/orion.webp&w=32) ![Sebastian](https://herowars.rovani.net/.netlify/images?url=/images/heroes/sebastian.webp&w=32) ![Helios](https://herowars.rovani.net/.netlify/images?url=/images/heroes/helios.webp&w=32)         | Orion, Sebastian, Helios     | Magic/Crit      | Team 1 (Control disrupts combo)   |
+| Acronym | Heroes                       | Team Type       | Best Counter Team                 |
+| ------- | ---------------------------- | --------------- | --------------------------------- |
+| ADA     | Astaroth, Daredevil, Alvanor | Physical Damage | Team 2 (Control with Jorgen)      |
+| AOH     | Alvanor, Orion, Helios       | Magic Damage    | Team 3 (Honor with magic defense) |
+| CKK     | Cleaver, K'arkh, Kai         | Physical Burst  | Team 3 (Andvari counters K'arkh)  |
+| Dodge   | Aurora, Dante, Dark Star     | Evasion Based   | Team 2 (Jhu ignores dodge)        |
+| FArT    | Fafnir, Artemis, Tristan     | Physical Damage | Team 1 (Control disrupts combo)   |
+| JJI     | Jet, Judge, Isaac            | Physical Crit   | Team 3 (Helios counters crits)    |
+| KHK     | K'arkh, Helios, Kai          | Hybrid Damage   | Team 3 (Andvari counters K'arkh)  |
+| KSJ     | K'arkh, Sebastian, Jet       | Physical Burst  | Team 3 (Andvari counters K'arkh)  |
+| ODH     | Orion, Dorian, Helios        | Magic Damage    | Team 1 (Control disrupts combo)   |
+| OSH     | Orion, Sebastian, Helios     | Magic/Crit      | Team 1 (Control disrupts combo)   |
 
 **Note**: Most teams add a tank and support/healer to complete the 5-hero lineup. Common additions include:
 
