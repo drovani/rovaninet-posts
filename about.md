@@ -14,21 +14,17 @@ Where I get most pride from is in team leadership. Building high-performing team
 
 ### Chief Technology Officer at _National Business Institute | NBI, Inc._
 
-September 2023 to present
+September 2023 to February 2025
 
-:::aside{.lead}
-NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including live in-person events, live online seminars, OnDemand streaming videos, and self-paced learning downloads.
-:::
+> NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including live in-person events, live online seminars, OnDemand streaming videos, and self-paced learning downloads.
 
-The Chief Technology Officer is a core role within the National Business Institute, pairing with the President to make up the executive leadership team. As CTO, I oversee the Technology Group and provides leadership and expertise for all facets of the technology ecosystem, including network infrastructure, IT service desk operations, application development, web development, and decision support & analytics. I am empowered to utilize my business analysis expertise to ensure that NBI’s technology infrastructure, platforms, and processes are designed to support internal business operations, digital and print marketing, online commerce, product delivery, and finance. I work closely with and collaborate with other members of NBI's senior leadership team and provide regular updates and advice to the board of directors.
+The Chief Technology Officer was a core role within the National Business Institute, pairing with the President to make up the executive leadership team. As CTO, I oversaw the Technology Group and provided leadership and expertise for all facets of the technology ecosystem, including network infrastructure, security governance, IT service desk operations, application development, web development, Shopify storefront architecture, and Salesforce administration. I was empowered to utilize my business analysis expertise to ensure that NBI’s technology infrastructure, platforms, and processes were designed to support internal business operations, digital and print marketing, online commerce, product delivery, and finance. I worked closely with and collaborated with other members of NBI’s senior leadership team and provide regular updates and advice to the board of directors.
 
 ### Solution Strategist at _The Maze Group_
 
 June 2021 to August 2023
 
-:::aside{.lead}
-The Maze Group is a consulting agency focused on solutions for Salesforce and Shopify e-commerce, digital marketing, content strategies, and private equity acquisitions.
-:::
+> The Maze Group is a consulting agency focused on solutions for Salesforce and Shopify e-commerce, digital marketing, content strategies, and private equity acquisitions.
 
 At Maze, I was frequently the second person at the company to speak to prospective clients, accompanying the Account Executive. I would meet and engage with C-Level stakeholders, directors charged with implementing strategy, and the individual contributors that would be deep in the proposed solutions.
 
@@ -62,9 +58,7 @@ Projects while at _The Maze Group_
 
 October 2019 to June 2021
 
-:::aside{.lead}
-BlueBolt Solutions, Inc is a digital consulting agency focused on solutions for e-commerce, search, and content solutions with expertise in Shopify, Episerver, and DNN.
-:::
+> BlueBolt Solutions, Inc is a digital consulting agency focused on solutions for e-commerce, search, and content solutions with expertise in Shopify, Episerver, and DNN.
 
 Brought on as a _Senior Solutions Architect_ general technologist to provide solutions support for projects large and small, I assisted and mentored for work on the UX front-end of projects, back-end architecture, and integrations with other systems.
 
@@ -77,9 +71,7 @@ Promoted to the role of _Director of Solution Consulting_, leading all sales eng
 
 November 2012 to October 2019
 
-:::aside{.lead}
-The International Fellowship of Christians and Jews (IFCJ) is a global non-profit with offices in Chicago, Toronto, Brazil, South Korea, and Jerusalem providing humanitarian work in the eastern Mediterranean and former Soviet Union regions of the world. With annual revenue of $120m, IFCJ exists in an operational space with needs that reach into enterprise-level solutions, but within a budget designed to maximize stewardship of donors' contributions.
-:::
+> The International Fellowship of Christians and Jews (IFCJ) is a global non-profit with offices in Chicago, Toronto, Brazil, South Korea, and Jerusalem providing humanitarian work in the eastern Mediterranean and former Soviet Union regions of the world. With annual revenue of $120m, IFCJ exists in an operational space with needs that reach into enterprise-level solutions, but within a budget designed to maximize stewardship of donors' contributions.
 
 My time at The Fellowship was highlighted by moments of teaching and mentoring my team; growing and adapting the Information Services department to meet the ever changing needs of the company; and the ongoing work of maintaining and enhancing the custom built donor management system (KesherNet).
 
@@ -114,11 +106,12 @@ May 2004 - May 2006
 
 ## Proficiencies & Technical Knowledge
 
+- Cloud-First Development - API Manager, Azure Functions, Cosmos DB, App Services, Storage and Queues, AD B2C Tenants, Key Vault, Application Insights
+- Shopify storefront & theme architecture - React, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM, Tailwind, shadcn
 - SCRUM, Agile, Waterfall project management methodologies
 - Azure DevOps – Boards, Project Planning, Backlog item tracking, Repos, Pipelines, CI/CD
-- Microsoft development environment – C#, MSSQL, .NET Framework, .NET core, Visual Studio, Knockout JS
-- Cloud-First Development - Azure Functions, Cosmos DB, App Services, Storage and Queues, AD B2C Tenants, Key Vault, Application Insights
-- Avid user of OneNote, Trello, LinqPad, Teams, VS Code; frequent user of Slack, Project, Outlook, Word, Excel
+- Microsoft development environment – C#, MSSQL, .NET Framework, .NET core, Visual Studio
+- Avid user of Capacities, Teams, VS Code, PowerPoint; also work extensively with Slack, Jira, Confluence, Project, Outlook, Word, Excel
 
 ## University of Evansville, class of 2004
 
@@ -132,7 +125,7 @@ May 2004 - May 2006
 ## Additional Interests and Activities
 
 - Avid cook, handyman, reader, and runner
-- Volunteer as marathon pace leader for Chicago Area Runners Association
+- Chicago Area Runners Association volunteer as site coordinator and pace leader
 - #drovani on the Peloton leaderboards
 - Occasional motorcyclist
-- Stumbling through Spanish lessons in Duolingo
+- Over 2 years of stumbling through Spanish lessons in Duolingo
