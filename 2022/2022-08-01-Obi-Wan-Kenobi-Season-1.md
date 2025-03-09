@@ -4,8 +4,7 @@ category: Exactly One Hobby
 series: Star Wars Commentary
 excerpt: "This might be the least appetizing show so far in this extended run of _Star Wars_ shows. It's the life and times of a has-been character, where we already know his fate and the fate of all the important characters of the show. When will the extended universe get back to telling unique stories? In the meantime, maybe you'll enjoy another running list of random thoughts I had while watching the show."
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 date: 2022-08-01
 ---

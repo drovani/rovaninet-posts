@@ -1,6 +1,6 @@
 ---
 title: "CTO Leadership At Small Scale"
-series: CTO At Small Scale
+category: CTO At Small Scale
 excerpt: "During my first 8-months as a CTO, I learned a lot about how to be remote leader for an in-person team, navigate legacy notions of the technology landscape, and guide rising talent through the turbulence of change."
 tags:
 date: 2024-11-14

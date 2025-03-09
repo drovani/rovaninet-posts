@@ -3,8 +3,7 @@ title: "The Mandalorian: Season One - A Few Thoughts"
 category: Exactly One Hobby
 series: Star Wars Commentary
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 date: 2020-10-31
 ---

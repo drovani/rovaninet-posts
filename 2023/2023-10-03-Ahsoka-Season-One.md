@@ -3,8 +3,7 @@ title: "Ahsoka: Season One"
 series: Star Wars Commentary
 excerpt: "_Ahsoka_, the latest show about Jedi on _Disney+_, continues the tradition of template storytelling, lots of Easter eggs (even blatently thrown at the unknowing as if to taunt them for not knowing), and solidat action sequences. There are spoilers, but I don't care; this is best understood if you have already watched the season."
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 date: 2023-10-03
 ---

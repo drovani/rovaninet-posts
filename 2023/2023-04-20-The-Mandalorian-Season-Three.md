@@ -3,8 +3,7 @@ title: "The Mandalorian: Season Three - All The Rants"
 series: Star Wars Commentary
 excerpt: "Bullet-pointed ramblings about _The Mandalorian_ might be my favorite part of having a _Disney+_ subscription. There's no real point about all this other than that I'm having fun doing it. There are spoilers, but I don't care; this is best understood if you have already watched the season."
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 date: 2023-04-20
 ---

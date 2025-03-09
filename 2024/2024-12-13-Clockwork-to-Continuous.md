@@ -1,6 +1,6 @@
 ---
 title: "From Clockwork to Continuous: Modernizing Our Continuing Education Platform's Architecture"
-series: CTO At Small Scale
+category: CTO At Small Scale
 excerpt: "In this post, I'll walk through how we are transforming our monolithic, schedule-based architecture into a modern, event-driven system that handles our CLE processing with the grace of a well-briefed legal argument. You'll learn why scheduled batch processing can create unnecessary friction in customer experience, how event-driven architecture can deliver near-real-time data processing and reporting, the step-by-step process we are using to migrate without disrupting our core business operations, and real lessons learned from managing this transformation."
 tags:
 date: 2024-12-13

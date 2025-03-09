@@ -3,8 +3,7 @@ title: "The Book of Boba Fett: Season One - A Few Thoughts"
 category: Exactly One Hobby
 series: Star Wars Commentary
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 excerpt: As I watched the first two seasons of _The Mandalorian_, I had **_a lot_** of thoughts on the matter. Mostly that the show was derivative, loaded with tropes and cliches, monotonous in pacing, but with a stellar score. As _The Book of Boba Fett_ was being pitched, I had a feeling that I would also have Thoughts on the Matter. In the immortal words of Rick O'Connell, "here we go again."
 date: 2022-02-09

@@ -1,6 +1,6 @@
 ---
 title: "Building in Public: Managing Side Projects During Job Transitions"
-series: CTO At Small Scale
+category: Career in Transition
 excerpt: "Career transitions offer a unique opportunity for hands-on technical exploration. After leaving my CTO role, I'm keeping skills sharp by building my Hero Wars Helper project in public. This post covers my strategies for maintaining momentum, prioritizing MVP over perfection, and using side projects to demonstrate ongoing technical relevance — all while navigating the job search process. For developers in transition, here's how to turn uncertainty into productive coding time."
 tags:
   - herowars

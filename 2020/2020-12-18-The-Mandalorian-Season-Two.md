@@ -3,8 +3,7 @@ title: "The Mandalorian: Season Two - A Few Rants"
 category: Exactly One Hobby
 series: Star Wars Commentary
 tags:
-- starwars
-- commentary
+- rantsandrambling
 - disneyplus
 date: 2020-12-18
 ---
