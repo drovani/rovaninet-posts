@@ -9,8 +9,6 @@ tags:
 date: 2025-03-12
 ---
 
-# Building in Public: Managing Side Projects During Job Transitions
-
 Career transitions, whether planned or unexpected, create a unique window of opportunity for developers and tech leaders. As I navigate my own transition after leaving my CTO position at NBI, I'm channeling my energy into side projects—specifically my [Hero Wars: Alliance Helper](https://herowars.rovani.net)—to maintain technical momentum, explore new technologies, and demonstrate ongoing growth. This is in addition to spending more quality time with my family, searching for another employer, and training for another marathon.
 
 This post outlines my approach to building in public during this transition period, with strategies and insights that may help other developers in similar situations.
@@ -131,7 +129,7 @@ Having guided numerous engineers and technical leaders through career transition
 
 Career transitions provide a rare opportunity to reinvest in technical skills while demonstrating ongoing relevance in the job market. By building in public with clear boundaries, realistic expectations, and a focus on progress over perfection, developers at all levels can maintain momentum and showcase their abilities.
 
-I'll be continuing to update my progress on the Hero Wars: Alliance Helper project in the coming weeks. Follow along on GitHub or through future blog posts as I navigate this transition period one commit at a time.
+I'll be continuing to update my progress on the Hero Wars: Alliance Helper project in the coming weeks. Follow along on [GitHub](https://github.com/drovani/herowars-helper) or through [future blog posts](/tag/herowars) as I navigate this transition period one commit at a time.
 
 ---
 
