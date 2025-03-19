@@ -12,7 +12,7 @@ date: 2025-03-19
 
 In my [previous post on Building in Public](/posts/2025/building-in-public), I discussed the value of side projects during career transitions, using my [Hero Wars: Alliance Helper](https://herowars.rovani.net) as a case study. While I touched on maintaining technical momentum and showcasing ongoing growth, I only briefly mentioned the tools supporting this journey. Today, I want to expand on that foundation by exploring how GitHub features beyond basic repository hosting can elevate your side project development process.
 
-In previous roles, I have used other platforms for the git repo and project management, including Azure DevOps, JIRA, Trello, and event Excel. However, there's tremendous value in leveraging GitHub's integrated suite of project management tools—especially for individual developers and small teams looking to maintain professional practices without additional platform overhead.
+In previous roles, I have used other platforms for the git repo and project management, including Azure DevOps, JIRA, Trello, and even Excel. However, there's tremendous value in leveraging GitHub's integrated suite of project management tools—especially for individual developers and small teams looking to maintain professional practices without additional platform overhead.
 
 ## The Side Project Management Challenge
 
@@ -58,7 +58,7 @@ The true power of Issues lies in their connection to code through references. Wh
 
 Labels further enhance organization by categorizing issues across dimensions, though for now I am sticking with the default labels that come with a Github instance (enhancement, good first issue, bug, documentation, etc.).
 
-I utilize the Project's Priority (Critical issue, Urgent matter, Situation normal, Nice to have) and Size (XS, S, M, L, XL) as a powerful filtering capability when planning development sessions. For instance, when I only have a short time available, I can quickly filter for "Priority: Critical issue" and "Size: XS" issues to make the most of limited development windows.
+I utilize the Project's Priority (Critical issue, Urgent matter, Situation normal, Nice to have) and Size (XS, S, M, L, XL), which provide a powerful filtering capability when planning development sessions. For instance, when I only have a short time available, I can quickly filter for "Priority: Critical issue" and "Size: XS" issues to make the most of limited development windows.
 
 ## Pull Requests as Development Documentation
 
@@ -89,7 +89,7 @@ This approach maintains a clean main branch while creating a searchable history 
 
 ## Automated Workflows with GitHub Actions
 
-GitHub Actions represents powerful automation capabilities, however, the sheer number of available actions can be overwhelming. For side projects, the key is selective implementation and using automation where it provides the most value without creating maintenance overhead.
+GitHub Actions represents powerful automation capabilities; however, the sheer number of available actions can be overwhelming. For side projects, the key is selective implementation and using automation where it provides the most value without creating maintenance overhead.
 
 In the Hero Wars Helper project, I haven't used anything yet. Netlify handles the build and deployment pipeline, and I anticipate that GitHub Actions will complement this by ensuring that what gets built meets quality standards.
 
