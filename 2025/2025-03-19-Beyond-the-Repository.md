@@ -7,7 +7,7 @@ tags:
   - ctointransition
   - github
   - projectmanagement
-date: 2025-03-20
+date: 2025-03-19
 ---
 
 In my [previous post on Building in Public](/posts/2025/building-in-public), I discussed the value of side projects during career transitions, using my [Hero Wars: Alliance Helper](https://herowars.rovani.net) as a case study. While I touched on maintaining technical momentum and showcasing ongoing growth, I only briefly mentioned the tools supporting this journey. Today, I want to expand on that foundation by exploring how GitHub features beyond basic repository hosting can elevate your side project development process.
