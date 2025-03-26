@@ -5,7 +5,7 @@ excerpt: "Navigating a family vacation while searching for a new executive posit
 tags:
   - ctointransition
   - selfreflection
-date: 2025-04-02
+date: 2025-03-26
 ---
 
 There's something uniquely challenging about trying to enjoy family time while an invisible clock counts down in your mind. Three months. That's what I have to find my next role before financial pressure becomes a real problem. Yet here I am, watching my kids splash in the pool waters of Sarasota, trying to be fully present while my mind occasionally drifts to unanswered emails and networking connections I should be nurturing.
