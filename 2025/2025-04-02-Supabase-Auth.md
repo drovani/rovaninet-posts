@@ -8,7 +8,7 @@ tags:
   - supabase
   - authentication
   - react-router
-date: 2025-03-26
+date: 2025-04-02
 ---
 
 Authentication is a critical component for any application that manages user data. For my [Hero Wars Helper](https://herowars.rovani.net/) project, I needed to implement a login system that would secure user-specific content while maintaining a clean separation of concerns. In this post, I'll walk through implementing Supabase Auth in a React Router v7 application with TypeScript, using a modular approach that allows for easy replacement of the auth provider if needed in the future.
