@@ -2,7 +2,7 @@
 title: "How Scientists Use Lasers to Measure Farts: A Journey Down a Research Rabbit Hole"
 category: Accidental Academia
 excerpt: "What started as research into healthy eating led me down a fascinating rabbit hole: scientists are using sophisticated laser technology to measure intestinal gas and study the gut microbiome. From diagnosing digestive disorders through breath tests to discovering that lasers can actually alter gut bacteria composition, this unexpected journey into 'photobiomics' reveals the incredible ingenuity behind studying our body's most embarrassing bodily function."
-date: 2025-03-19
+date: 2025-07-01
 ---
 
 One of my favorite aspects of diving deep into any topic is uncovering the fascinating tangential insights that emerge along the way. As part of researching healthier eating habits, I have been listening to the latest season of the ["Try This"](https://open.spotify.com/episode/3HjL7x04le2IsPFlf95MjS?si=0869586bea234e54) podcast from the Washington Post that mentioned scientists using lasers to measure farts as part of microbiome research. I couldn't let that little tidbit of information go unearthed! What started as a simple curiosity about digestive health led me down an incredible rabbit hole into the sophisticated world of laser spectroscopy and intestinal gas analysis. Sometimes the most interesting knowledge comes from these unexpected detours, so I wanted to share this particular gem of scientific ingenuity.
