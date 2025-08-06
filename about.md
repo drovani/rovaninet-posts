@@ -1,131 +1,218 @@
-# David Rovani, Résumé
+# David Rovani, Technology Leadership & Strategic Innovation
 
-## Passions and Motivators
+## Executive Summary
 
-With a passion for innovation, team leadership, strategic planning, and mentorship, I have created a career that centers around communication, continuous learning, and organizational influence. I focus on improvements to the people, processes, and technology that deliver ever increasing value to businesses and customers.
+Technology leader with 18+ years of progressive experience driving digital transformation, team development, and strategic innovation across nonprofit and commercial environments. Proven track record of modernizing legacy systems, leading cross-functional teams, and delivering measurable business impact while maintaining operational excellence. Specializes in bridging business strategy with technical execution in organizations ranging from startups to $120M enterprises.
 
-I enjoy pushing the boundaries of technology and finding new ways to solve problems or improve existing processes. I have a deep love for technology and a desire to stay current with the latest trends and developments, balancing between providing high-level direction to team members and diving into the technical details of projects.
+## Core Competencies & Leadership Philosophy
 
-I am motivated by complex problem-solving, thriving on tackling challenging technical issues and finding creative solutions. It is particularly satisfying when it leads to improvements in the company's products or services, be they internal tools or externally facing projects.
+**Strategic Technology Leadership:** Passionate about innovation, team leadership, strategic planning, and mentorship. Career centered on communication, continuous learning, and organizational influence through improvements to people, processes, and technology that deliver increasing value to businesses and customers.
 
-Where I get most pride from is in team leadership. Building high-performing teams, mentoring and developing talent, creating a positive work environment, fostering effective communication, setting clear expectations, and empowering decision-making... these are all some of the most rewarding moments in my career and what I strive to inspire in others every day.
+**Innovation & Problem-Solving:** Thrives on pushing technology boundaries and finding creative solutions to complex challenges. Balances high-level strategic direction with deep technical involvement, particularly when improvements impact company products, services, and customer experience.
 
-## Experience & Responsibilities
+**Team Development Excellence:** Greatest pride comes from building high-performing teams, mentoring talent, creating positive work environments, fostering effective communication, setting clear expectations, and empowering decision-making. These leadership moments represent the most rewarding aspects of career growth and daily inspiration.
 
-### Chief Technology Officer at _National Business Institute | NBI, Inc._
+---
 
-September 2023 to February 2025
+## Professional Experience
 
-> NBI is a continuous legal education provider covering programs on national and state-specific topics, offering a full gamut of training formats and materials including live in-person events, live online seminars, OnDemand streaming videos, and self-paced learning downloads.
+### Chief Technology Officer | National Business Institute (NBI, Inc.) | Remote
 
-The Chief Technology Officer was a core role within the National Business Institute, pairing with the President to make up the executive leadership team. As CTO, I oversaw the Technology Group and provided leadership and expertise for all facets of the technology ecosystem, including network infrastructure, security governance, IT service desk operations, application development, web development, Shopify storefront architecture, and Salesforce administration. I was empowered to utilize my business analysis expertise to ensure that NBI’s technology infrastructure, platforms, and processes were designed to support internal business operations, digital and print marketing, online commerce, product delivery, and finance. I worked closely with and collaborated with other members of NBI’s senior leadership team and provide regular updates and advice to the board of directors.
+**September 2023 - February 2025**
 
-### Solution Strategist at _The Maze Group_
+> National Business Institute is a nonprofit continuing legal education provider founded in 1983 that serves over 30,000 law firms with live seminars, online courses, and self-study materials across 75+ legal practice areas nationwide.
 
-June 2021 to August 2023
+**Executive Responsibilities:**
 
-> The Maze Group is a consulting agency focused on solutions for Salesforce and Shopify e-commerce, digital marketing, content strategies, and private equity acquisitions.
+- Core executive team member partnering directly with President on strategic organizational direction
+- Oversaw complete Technology Group encompassing infrastructure, security, IT operations, development, and commerce platforms
+- Provided regular board presentations and strategic technology advisement
+- Led cross-functional collaboration with senior leadership team on digital transformation initiatives
 
-At Maze, I was frequently the second person at the company to speak to prospective clients, accompanying the Account Executive. I would meet and engage with C-Level stakeholders, directors charged with implementing strategy, and the individual contributors that would be deep in the proposed solutions.
+**Key Achievements:**
 
-Projects while at _The Maze Group_
+- **Security Governance Excellence:** Founded and chaired Security Governance Committee, implementing comprehensive physical, cyber, AI, and data security standards meeting industry best practices
+- **Strategic System Modernization:** Created detailed transition plan migrating legacy monolithic applications to adaptable microservices architecture with modern platform integration
+- **Organizational Leadership:** Planned and hosted inaugural Leadership Team Retreat featuring team building, strategic planning, competitive analysis, and OKR implementation
+- **Team Transformation:** Executed comprehensive team restructuring, retraining, and strategic hiring aligned with current and future organizational needs
+- **Vendor Excellence:** Created detailed RFPs and led selection processes for Shopify theme development, Learning Management Systems, ERP platforms, and authentication services (Auth0/Okta)
+- **Cost Optimization:** Maintained flat spending while optimizing Azure and on-premises infrastructure, eliminating unnecessary service expenditures
 
-- **Interim CTO** with _National Business Institute_
-  - Advisor to President for strategic technology planning, organizational strategy, and business analysis.
-  - Collaborated with the senior management to provide improved communication and insight into the development cycle and right sizing expectations for deliverables and timelines.
-  - Created detailed technology roadmap to modernize ecosystem of legacy, homegrown, unstable applications.
-  - Implemented a Backlog Management Process to triage and prioritize tickets; a UAT & QA process to mitigate against deployment regression; and a launch, contingency, and remediation plan to minimize impact to customers and the business.
-  - Led development team in implementation of Shopify storefront and migration from legacy homegrown website.
-- **Solution Architect**, Shopify storefront build with _Coty, Inc._
-  - Led pre-sales discovery, project estimation, and statement of work (SOW) creation in a sales engineering role.
-  - Technical architect throughout functional requirements gathering, merchant usability and expectation setting, and project prioritization triaging.
-  - Interfaced regularly with client project teams, including E-Commerce DTC team, global technology operations team, information security team, and Accenture Managed Services team.
-  - Led Maze Shopify development team in implementation of a boutique, highly customized Shopify storefront theme build, including integrations with Global-E, Klaviyo, OneTrust, Appointedd, Adobe Web Analytics, Widgetic, and ZenDesk.
-- **Interim CTO** with _BodyBuilding.com_
-  - Advisor to both CEO and CPO for strategic technology planning, data stewardship, and risk mitigation.
-  - Assisted the executive team during acquisition planning and solicitation.
-  - Created detailed technology roadmap to solve immediate revenue requirements while providing a path for future innovation and growth.
-  - Created strategy for modernization of content toolset to increase efficiency in labor, enabling personalization for customers, and unlocked cross-channel publishing.
-  - Led ecommerce development team in stabilizing newly implemented Shopify ecommerce platform and fix issues impacting traffic and funnel conversion.
-  - Implemented a Backlog Management Process to triage and prioritize tickets; a UAT & QA process to mitigate against deployment regression; and a launch, contingency, and remediation plan to minimize impact to customers and the business.
-  - Led development team in implementation of Amplience headless CMS hosted by Netlify.
-- **Solutions Architect**, Shopify POC Project with _Zwift_
-  - Provided Shopify platform expertise to the _Zwift_ team of developers in creating a proof-of-concept Shopify storefront that would allow customers to purchase physical goods and digital subscriptions.
-  - Architected integration of the Recharge subscription service between _Zwift_'s home-grown entitlement service and Shopify storefront.
-  - Architected _Multipass_ integration between _Zwift_'s authentication service and Shopify storefront.
+**Technical Leadership:** Directed application development, infrastructure engineering, reporting/analytics, Shopify storefront architecture, and Salesforce administration while ensuring alignment with business objectives.
 
-### Director of Solution Consulting at _BlueBolt Solutions_
+### Solution Strategist | The Maze Group | Remote
 
-October 2019 to June 2021
+**June 2021 - August 2023**
 
-> BlueBolt Solutions, Inc is a digital consulting agency focused on solutions for e-commerce, search, and content solutions with expertise in Shopify, Episerver, and DNN.
+> The Maze Group is a New York-based digital commerce consultancy founded in 2017 that specializes in eCommerce platform implementations (particularly Shopify Plus and Salesforce Commerce Cloud), conversion optimization, and full-funnel marketing for enterprise brands and Fortune 500 companies.
 
-Brought on as a _Senior Solutions Architect_ general technologist to provide solutions support for projects large and small, I assisted and mentored for work on the UX front-end of projects, back-end architecture, and integrations with other systems.
+**Client Engagement Excellence:**
 
-- Provided UX support and created integrations between a new Shopify store and custom fulfillment workflows for a leading publisher of religious books and resources serving 12,000+ products with multiple fulfillment services and product types.
-- Researched and provided detailed instructions for integrating Auth0 with Shopify and TalentLMS, including authoring several blog posts.
+- Primary technical liaison with C-level stakeholders, directors, and individual contributors
+- Led pre-sales discovery, project estimation, and SOW creation in sales engineering capacity
+- Delivered strategic technology planning, organizational strategy, and business analysis driving revenue growth
 
-Promoted to the role of _Director of Solution Consulting_, leading all sales engineering efforts. Worked in conjunction with the VP of Development throughout the sales process, including introductions to the agency, preliminary scoping, project solutioning, detailed work estimates, proposal creation, closing of the sale, and hand-off to the delivery team. I was instrumental in rethinking the approach to sales engineering and creating tools to support and streamline the process. I excelled at communication across all levels of prospective customer organizations from C-level executives to line-level employees; at capturing their workflows, understanding their painpoints, and empathizing with what they viewed as keys to success.
+**Major Project Leadership:**
 
-### Director of Information Services at _IFCJ_
+**Interim CTO - National Business Institute**
 
-November 2012 to October 2019
+- Strategic advisor to President for technology planning and business analysis
+- Enhanced senior management communication regarding development cycles and delivery expectations
+- Created comprehensive technology roadmap for legacy system modernization
+- Implemented Backlog Management, UAT/QA processes, and deployment procedures minimizing customer impact
+- Led Shopify storefront implementation and legacy website migration
 
-> The International Fellowship of Christians and Jews (IFCJ) is a global non-profit with offices in Chicago, Toronto, Brazil, South Korea, and Jerusalem providing humanitarian work in the eastern Mediterranean and former Soviet Union regions of the world. With annual revenue of $120m, IFCJ exists in an operational space with needs that reach into enterprise-level solutions, but within a budget designed to maximize stewardship of donors' contributions.
+**Solution Architect - Coty, Inc. (Global Beauty Corporation)**
 
-My time at The Fellowship was highlighted by moments of teaching and mentoring my team; growing and adapting the Information Services department to meet the ever changing needs of the company; and the ongoing work of maintaining and enhancing the custom built donor management system (KesherNet).
+- Architected boutique, highly customized Shopify storefront for international beauty brand
+- Managed complex integrations: Global-E, Klaviyo, OneTrust, Appointedd, Adobe Analytics, Widgetic, ZenDesk
+- Collaborated with E-Commerce DTC teams, global technology operations, security, and Accenture Managed Services
+- Delivered technical architecture through requirements gathering, merchant usability, and project prioritization
 
-Overseeing a team of 3 application developers, 2 database administrators, and a data hygienist, my role was both manager/mentor for the team and the senior technical resource. The department was responsible for ensuring that the organization has timely access to accurate data that is securely stored yet easily accessible. Information was retrieved from dozens of vendors through file imports, API calls, webhooks, and manual keying. The data was accessed by internal users through KesherNet, through custom reports, and shared with vendors through file exports.
+**Interim CTO - BodyBuilding.com (Sports Nutrition Retailer)**
 
-KesherNet is a web application written in C# on the ASP.NET and EF frameworks connecting to Microsoft SQL Server databases. It includes modules that handle payment processing (CC, ACH, and PayPal), fully templated receipt printing, weekly/monthly/quarterly (and other odd cadence) scheduled gifts, highly adaptable list segmentations, and many other custom tools that support business processes. I was the lead developer on the initial project to build the application, replacing a vendor’s legacy system that had reached its end-of-life. I continued to be the architect and lead developer while teaching and directing junior staff to take on more responsibilities as they learn and grow.
+- Strategic advisor to CEO and CPO during acquisition planning and risk mitigation
+- Created technology roadmap balancing immediate revenue requirements with future innovation
+- Developed content modernization strategy enabling personalization and cross-channel publishing
+- Stabilized Shopify ecommerce platform, resolving traffic and conversion issues
+- Led Amplience headless CMS implementation hosted by Netlify
 
-Several later projects used an assortment of technologies and platforms, including Azure Functions, CosmosDb, App Services, and API Management to build a donation API for the publicly facing website; implemented code review and check-in policies and governance; and began creating the architecture of a fully cloud-native, open-source donor management solution to replace the current system.
+**Solutions Architect - Zwift (Fitness Gaming Platform)**
 
-Initial position at IFCJ was as a Senior .NET Developer, then after a year was promoted to .NET Developer Team Lead. Two years later, promoted to Manager of Application Development. Received promotion to Director of Information Services in November 2017.
+- Provided Shopify expertise for proof-of-concept supporting physical goods and digital subscriptions
+- Architected Recharge subscription integration with proprietary entitlement services
+- Designed Multipass authentication integration between Zwift and Shopify platforms
 
-### Additional Work Experience
+### Director of Solution Consulting | BlueBolt Solutions | Chicago, IL
 
-#### Falkor Group: Application Development Practice Manager
+**October 2019 - June 2021**
 
-May 2006 - November 2012
+> BlueBolt Solutions is a Chicago-based full-service digital agency founded in 2005 that specializes in eCommerce development, content management systems, and enterprise search solutions for manufacturers, distributors, and retailers, with particular expertise in complex B2B and B2C platform integrations.
 
-- Lead Developer on a three year project to convert a large website from classic ASP to ASP.NET Web Forms to support retail franchises for an international tire corporation with product ordering, event scheduling, and to act as an informational hub between the franchises and corporate.
-- Developer on a project to analyze and document the business processes for a large humanitarian non-profit, and recommend application solutions to transition their donor management software away from a closed-source Windows forms application.
-- Lead Developer on the project to implement the replacement solution for the same large humanitarian non-profit, which included migrating to a new open source platform, and recreating customized business logic in the new system.
-- Lead Developer during ongoing maintenance and enhancement projects, also for the same non-profit.
-- Sole developer creating a small internal website to aid a rental property management company with data storage, replacing a ten-year-old Access database.
-- Created a fully customized internal application for a small community advocacy non-profit on the Chicago south side to manage their client caseload. This replaced an entirely paper-driven workflow with a managed electronic process.
+**Technical Excellence & Team Development:**
 
-#### Best Buy: Geek Squad "Double Agent"
+- Advanced from Senior Solutions Architect to Director, leading all sales engineering efforts
+- Mentored development teams across UX frontend, backend architecture, and system integrations
+- Created tools and processes streamlining sales engineering approach
 
-May 2004 - May 2006
+**Notable Achievements:**
 
-- On-premise technical support for home and small businesses.
-- Diagnose and solve problems with home networking, Windows computers, and printers; and provide user training.
-- Required a significant amount of in-person customer support and working with both the central dispatch and local Best Buy employees to ensure that customer needs and expectations were always met.
+- **Complex E-commerce Integration:** Delivered Shopify integration with custom fulfillment workflows for religious publishing company serving 12,000+ products across multiple fulfillment services
+- **Authentication Expertise:** Researched and documented Auth0 integrations with Shopify and TalentLMS, contributing to industry knowledge through detailed blog posts
+- **Sales Engineering Leadership:** Excelled in communication across organizational levels from C-suite to line employees, capturing workflows, understanding pain points, and delivering empathetic solutions
 
-## Proficiencies & Technical Knowledge
+### Director of Information Services | International Fellowship of Christians and Jews (IFCJ) | Chicago, IL
 
-- Cloud-First Development - API Manager, Azure Functions, Cosmos DB, App Services, Storage and Queues, AD B2C Tenants, Key Vault, Application Insights
-- Shopify storefront & theme architecture - React, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM, Tailwind, shadcn
-- SCRUM, Agile, Waterfall project management methodologies
-- Azure DevOps – Boards, Project Planning, Backlog item tracking, Repos, Pipelines, CI/CD
-- Microsoft development environment – C#, MSSQL, .NET Framework, .NET core, Visual Studio
-- Avid user of Capacities, Teams, VS Code, PowerPoint; also work extensively with Slack, Jira, Confluence, Project, Outlook, Word, Excel
+**November 2012 - October 2019**
 
-## University of Evansville, class of 2004
+> Global $220M humanitarian nonprofit with international offices providing aid in eastern Mediterranean and former Soviet Union regions. Operated at enterprise scale within donor stewardship budget constraints.
 
-- Received both a B.S. in Computer Science and a B.S. in Computer Engineering.
-- Resident Assistant (RA), 2 years
-- Leadership Academy, President
-- Resident Student Association, National Ambassador
-- Student Government Association, Resident Hall Senator
-- Resident Gamers Society, President
+**Leadership & Team Development:**
 
-## Additional Interests and Activities
+- Led cross-functional team of 6: application developers, database administrators, and data specialists
+- Served dual role as department manager and senior technical resource
+- Progressive advancement: Senior .NET Developer → Team Lead → Manager of Application Development → Director
 
-- Avid cook, handyman, reader, and runner
-- Chicago Area Runners Association volunteer as site coordinator and pace leader
-- #drovani on the Peloton leaderboards
-- Occasional motorcyclist
-- Over 2 years of stumbling through Spanish lessons in Duolingo
+**Technical Architecture & Innovation:**
+
+- **Custom Donor Management System (KesherNet):** Lead architect and developer of comprehensive internal web application built in C#, ASP.NET, EF, and SQL Server
+- **Payment Processing Excellence:** Implemented multi-channel payment processing (CC, ACH, PayPal) with templated receipt generation
+- **Data Integration Mastery:** Managed data flow from dozens of vendors through file imports, API calls, webhooks, and manual processes
+- **Cloud-Native Evolution:** Pioneered Azure Functions, CosmosDB, App Services, and API Management for donation API development
+
+**Business Impact:**
+
+- **System Modernization:** Successfully replaced legacy end-of-life vendor system with custom solution supporting complex business processes which enabled organizational growth from \$85M to $220M donations
+- **Process Optimization:** Delivered scheduled gifts management, adaptive list segmentation, and custom business process tools
+- **Secure Data Management:** Ensured timely access to accurate, secure data across international offices in Canada, Israel, Brazil, and South Korea
+- **Code Governance:** Implemented code review policies and check-in governance preparing for cloud-native architecture transition
+
+**Key Features Delivered:**
+
+- Flexible scheduled giving (weekly/monthly/quarterly/custom cadences)
+- Advanced donor segmentation and targeting capabilities
+- Comprehensive reporting and business intelligence tools
+- Multi-vendor integration and data synchronization
+- Templated communication and receipt systems
+
+---
+
+## Earlier Career Highlights
+
+### Application Development Practice Manager | Falkor Group | Chicago, IL
+
+**May 2006 - November 2012**
+
+**Major Project Leadership:**
+
+- **Enterprise Web Modernization:** Led 3-year initiative converting international tire corporation's franchise website from classic ASP to ASP.NET Web Forms, implementing product ordering, event scheduling, and franchise-corporate communication systems
+- **Nonprofit Digital Transformation:** Analyzed and documented business processes for large humanitarian nonprofit, designing migration strategy from closed-source Windows application to open-source platform
+- **Custom Application Development:** Created property management system replacing 10-year-old Access database and fully customized case management application for Chicago south side community advocacy nonprofit, transitioning paper-driven workflows to electronic processes
+
+### Technical Support Specialist | Best Buy (Geek Squad) | Chicago, IL
+
+**May 2004 - May 2006**
+
+- On-premise technical support for home and small businesses
+- Customer service excellence in networking, Windows systems, and printer diagnostics
+- Coordination with dispatch and retail teams ensuring customer satisfaction
+
+---
+
+## Technical Proficiencies
+
+### Cloud & Modern Architecture
+
+- **Azure Ecosystem:** API Manager, Functions, Cosmos DB, App Services, Storage, Queues, AD B2C, Key Vault, Application Insights
+- **Microservices & APIs:** GraphQL, REST APIs, containerization, cloud-native development patterns
+- **AI Integrations:**
+
+### E-commerce & Frontend Development
+
+- **Shopify Excellence:** Theme architecture, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM,
+- **Modern Frontend:** React Router, TypeScript, Tailwind, shadcn/ui, responsive design, progressive web applications
+
+### Development & Data Management
+
+- **Microsoft Stack:** C#, .NET Framework/.NET Core, ASP.NET, Entity Framework, SQL Server, Visual Studio
+- **Database Management:** RDBMS design, performance optimization, data integration, ETL processes
+- **Development Operations:** Azure DevOps (Boards, Repos, Pipelines), CI/CD, Git, automated testing
+
+### Project Management & Collaboration
+
+- **Methodologies:** SCRUM, Agile, Waterfall, OKR implementation
+- **Tools Expertise:** Capacities, Teams, VS Code, Slack, Jira, Confluence, Project, Office 365 Suite, Google Workspaces
+- **Leadership Tools:** Strategic planning, vendor selection, team development, stakeholder management
+
+---
+
+## Education
+
+### University of Evansville | Class of 2004
+
+- **Bachelor of Science, Computer Science**
+- **Bachelor of Science, Computer Engineering**
+
+**Leadership Development:**
+
+- Resident Assistant
+- Leadership Academy President
+- Resident Student Association National Ambassador
+- Student Government Association Resident Hall Senator
+- Resident Gamers Society President
+
+---
+
+## Personal Interests & Community Engagement
+
+**Fitness & Wellness:** Marathon runner, [Chicago Area Runners Association](https://cararuns.org) volunteer (site coordinator and pace leader), #drovani on Peloton leaderboards
+
+**Lifelong Learning:** Over 2 years of Spanish language study through Duolingo, avid reader across technology and business domains
+
+**Creative Pursuits:** Passionate cook, handyman, occasional motorcyclist
+
+**Professional Development:** Continuous learning mindset with focus on emerging technologies, leadership methodologies, and industry best practices
+
+---
+
+_This comprehensive overview represents 18+ years of progressive technology leadership focused on delivering measurable business impact while developing high-performing teams and modernizing organizational capabilities. Available for strategic technology leadership roles where innovation, mentorship, and results-driven execution create sustainable competitive advantage._
