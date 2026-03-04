@@ -2,6 +2,12 @@
 
 Some of the side projects that I have started as a way to experiment with new (to me) frameworks, languages, and other tech.
 
+## [Media Tracker](/media-tracker)
+
+- _Last update February 2026_
+
+A simple tracker for keeping tabs on what I'm watching, have watched, and want to watch. The data is stored as a CSV file in the content repository and rendered as an interactive, filterable table. It tracks the title, year, status, service, and who I'm watching with. Built as a way to experiment with client-side filtering and sorting on a statically generated page.
+
 ## [Hero Wars: Alliance Helper](https://herowars.rovani.net)
 
 - Github Repo: [drovani/herowars-helper](https://github.com/drovani/herowars-helper)
