@@ -1,8 +1,8 @@
-# David Rovani, Technology Leadership & Strategic Innovation
+# David Rovani, Technology Leader & Strategic Innovator
 
 ## Executive Summary
 
-Technology leader with 18+ years of progressive experience driving digital transformation, team development, and strategic innovation across nonprofit and commercial environments. Proven track record of modernizing legacy systems, leading cross-functional teams, and delivering measurable business impact while maintaining operational excellence. Specializes in bridging business strategy with technical execution in organizations ranging from startups to $120M enterprises.
+Technology leader with 19+ years of progressive experience driving digital transformation, team development, and strategic innovation across nonprofit and commercial environments. Proven track record of modernizing legacy systems, leading cross-functional teams, and delivering measurable business impact while maintaining operational excellence. Specializes in bridging business strategy with technical execution in organizations ranging from startups to Fortune 500 enterprises.
 
 ## Core Competencies & Leadership Philosophy
 
@@ -15,6 +15,30 @@ Technology leader with 18+ years of progressive experience driving digital trans
 ---
 
 ## Professional Experience
+
+### Principal Consultant & Solutions Architect | Rovani Projects, Inc. | Remote
+
+**February 2025 - Present**
+
+> Rovani Projects, Inc. is a boutique consulting practice focused on enterprise platform architecture, digital transformation, and high-impact technology implementations for B2C, B2B, and non-profit organizations.
+
+**Client Engagements:**
+
+**Maisonette (via RunDTC) — Solutions Architect, Solidus to Shopify Plus Migration**
+
+- Architecting full platform migration from Solidus to Shopify Plus, designing comprehensive data schema, migration strategy, and integration architecture across six technical partners: Marketplacer, Nosto, Tapcart, Amitech, and internal Maisonette engineering
+- Designed connector architecture between Marketplacer and Shopify, coordinating implementation across vendor teams and validating integration contracts at all critical touchpoints
+- Serving as primary technical escalation point for offshore development team, ensuring delivery alignment with April 2026 production launch milestones
+- Managing cross-functional relationships with technical leads across five partner organizations alongside project and account management teams
+
+**Propel America — Solutions Architect, Fellowship Application Portal**
+
+- Led four-month engagement designing and delivering React Router + Supabase + Netlify applicant portal for national nonprofit's tuition-free healthcare fellowship program
+- Integrated portal with existing Salesforce workflows, reducing average application processing time from three weeks to six days
+- Architected data model and application foundation enabling Propel America's internal developer to independently expand the platform for active fellows and program graduates
+- Delivered strategic outcome compelling enough that Propel America redirected their full internal technical team toward portal expansion as primary initiative
+
+---
 
 ### Chief Technology Officer | National Business Institute (NBI, Inc.) | Remote
 
@@ -215,4 +239,4 @@ Technology leader with 18+ years of progressive experience driving digital trans
 
 ---
 
-_This comprehensive overview represents 18+ years of progressive technology leadership focused on delivering measurable business impact while developing high-performing teams and modernizing organizational capabilities. Available for strategic technology leadership roles where innovation, mentorship, and results-driven execution create sustainable competitive advantage._
+_This comprehensive overview represents 19+ years of progressive technology leadership focused on delivering measurable business impact while developing high-performing teams and modernizing organizational capabilities. Currently consulting through Rovani Projects on transformational platform migrations, enterprise architecture, and mission-driven technology implementations. Available for strategic technology partnerships where innovation, mentorship, and results-driven execution create sustainable competitive advantage._

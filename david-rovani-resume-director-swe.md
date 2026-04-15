@@ -16,7 +16,7 @@ Technology leader with 19+ years of experience architecting scalable systems, es
 
 ### Rovani Projects, Inc. — Remote
 
-**Principal Consultant / Solutions Architect** | September 2025 – Present
+**Principal Consultant / Solutions Architect** | February 2025 – Present
 
 **Maisonette (via RunDTC)** — _Solutions Architect, Solidus to Shopify Plus Migration_
 
