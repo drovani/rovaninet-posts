@@ -2,6 +2,12 @@
 
 Some of the side projects that I have started as a way to experiment with new (to me) frameworks, languages, and other tech.
 
+## [Marathon Training Chart](/marathon-training)
+
+- _Last update June 2026_
+
+An 18-week training load chart for the 2026 Chicago Marathon, rendered as hand-built SVG (no charting library) directly on this site. It plots daily mileage — warm-up, main workout, cool-down, and Tuesday two-a-days — against cumulative weekly volume, color-coded by day of the week and annotated with each week's training phase (build, cutback, peak, taper). Built as an experiment in drawing a data visualization from scratch with React and TailwindCSS instead of reaching for a chart library.
+
 ## [Media Tracker](/media-tracker)
 
 - _Last update February 2026_
@@ -18,6 +24,8 @@ Since the [acquisition by Shopify of the Remix project](https://shopify.engineer
 It's still a work in progress (as of August 2025). The lessons I have learned about React, Remix ([now React Router v7](https://remix.run/blog/react-router-v7)), Tailwind, [Supabase](https://supabase.com/), and [shadcn/ui](https://ui.shadcn.com/) components has been very informative and exciting to tinker with.
 
 This project has also been a fantastic playground for working with [Claude Code](https://www.anthropic.com/claude-code).
+
+**Update (March 2026):** After about eighteen months, I've stopped playing Hero Wars: Alliance — the short version is a new city-builder mode called REALM, and the full accounting is in [Hero Wars Built Something I Never Asked For — And I am Done Playing](/posts/2026/done-playing-hero-wars). The helper is still online, but with the game no longer part of my daily rhythm, it's no longer actively maintained.
 
 ## [HS Mercs Helper](https://hsmercs.rovani.net)
 
