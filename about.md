@@ -10,6 +10,8 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 **Innovation & Problem-Solving:** Thrives on pushing technology boundaries and finding creative solutions to complex challenges. Balances high-level strategic direction with deep technical involvement, particularly when improvements impact company products, services, and customer experience.
 
+**AI-Assisted Development Practice:** My relationship with AI-assisted development has moved from cautious evaluation to daily practice. At NBI, when coding assistants were still unreliable, I worked with the engineering team to assess their potential and sketch an adoption path contingent on the tools maturing. Today, tools like Claude Code are a core part of how I work: I use them to pressure-test architectural decisions, review and patch code for security, performance, and reliability, and handle routine UX and boilerplate work, freeing my attention for the design and integration problems that actually require it. That approach shaped delivery on the Propel America fellowship portal and continues to inform ongoing maintenance and feature work on the Maisonette platform following its April 2026 launch.
+
 **Team Development Excellence:** Greatest pride comes from building high-performing teams, mentoring talent, creating positive work environments, fostering effective communication, setting clear expectations, and empowering decision-making. These leadership moments represent the most rewarding aspects of career growth and daily inspiration.
 
 ---
@@ -24,19 +26,21 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 **Client Engagements:**
 
-**Maisonette (via RunDTC) — Solutions Architect, Solidus to Shopify Plus Migration**
+**Maisonette (via RunDTC): Solutions Architect, Solidus to Shopify Plus Migration**
 
-- Architecting full platform migration from Solidus to Shopify Plus, designing comprehensive data schema, migration strategy, and integration architecture across six technical partners: Marketplacer, Nosto, Tapcart, Amitech, and internal Maisonette engineering
+- Architected a full platform migration from Solidus to Shopify Plus, designing comprehensive data schema, migration strategy, and integration architecture across six technical partners: Marketplacer, Nosto, Tapcart, Amitech, and internal Maisonette engineering
 - Designed connector architecture between Marketplacer and Shopify, coordinating implementation across vendor teams and validating integration contracts at all critical touchpoints
-- Serving as primary technical escalation point for offshore development team, ensuring delivery alignment with April 2026 production launch milestones
-- Managing cross-functional relationships with technical leads across five partner organizations alongside project and account management teams
+- Served as primary technical escalation point for an offshore development team, leading the platform to a successful production launch in April 2026
+- Continuing to support the platform through an ongoing maintenance and feature enhancement engagement, managing cross-functional relationships with technical leads across partner organizations
+- Integrated AI-assisted development tooling, including Claude Code, into the engineering workflow, using it to stress-test architectural decisions, review and patch code for security, performance, and reliability, and accelerate routine UX and boilerplate development
 
-**Propel America — Solutions Architect, Fellowship Application Portal**
+**Propel America: Solutions Architect, Fellowship Application Portal**
 
 - Led four-month engagement designing and delivering React Router + Supabase + Netlify applicant portal for national nonprofit's tuition-free healthcare fellowship program
-- Integrated portal with existing Salesforce workflows, reducing average application processing time from three weeks to six days
+- Used Claude Code throughout the engagement to validate architectural decisions, harden code for security and reliability, and handle routine UX and boilerplate work, supporting a compressed four-month delivery timeline
+- Mentored internal junior developer with integrating portal with existing Salesforce, FormStack, and Calendry workflows
 - Architected data model and application foundation enabling Propel America's internal developer to independently expand the platform for active fellows and program graduates
-- Delivered strategic outcome compelling enough that Propel America redirected their full internal technical team toward portal expansion as primary initiative
+- Delivered strategic outcome of reducing average application processing time from three weeks to six days; compelling enough that Propel America redirected their full internal technical team toward portal expansion as primary initiative
 
 ---
 
@@ -55,11 +59,11 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 **Key Achievements:**
 
-- **Security Governance Excellence:** Founded and chaired Security Governance Committee, implementing comprehensive physical, cyber, AI, and data security standards meeting industry best practices
+- **Security Governance Excellence:** Founded and chaired Security Governance Committee, implementing comprehensive physical, cyber, AI, and data security and policy standards meeting industry best practices
 - **Strategic System Modernization:** Created detailed transition plan migrating legacy monolithic applications to adaptable microservices architecture with modern platform integration
-- **Organizational Leadership:** Planned and hosted inaugural Leadership Team Retreat featuring team building, strategic planning, competitive analysis, and OKR implementation
+- **Organizational Leadership:** Planned and hosted inaugural Leadership Team Retreat featuring team building, strategic planning, competitive analysis, and OKR implementation sessions
 - **Team Transformation:** Executed comprehensive team restructuring, retraining, and strategic hiring aligned with current and future organizational needs
-- **Vendor Excellence:** Created detailed RFPs and led selection processes for Shopify theme development, Learning Management Systems, ERP platforms, and authentication services (Auth0/Okta)
+- **Vendor Selection:** Created detailed RFPs and led selection processes for Shopify theme development, Learning Management Systems, ERP platforms, and authentication services (Auth0/Okta)
 - **Cost Optimization:** Maintained flat spending while optimizing Azure and on-premises infrastructure, eliminating unnecessary service expenditures
 
 **Technical Leadership:** Directed application development, infrastructure engineering, reporting/analytics, Shopify storefront architecture, and Salesforce administration while ensuring alignment with business objectives.
@@ -169,7 +173,7 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 **Major Project Leadership:**
 
-- **Enterprise Web Modernization:** Led 3-year initiative converting international tire corporation's franchise website from classic ASP to ASP.NET Web Forms, implementing product ordering, event scheduling, and franchise-corporate communication systems
+- **Enterprise Web Modernization:** Led 3-year initiative converting international tire corporation's franchise marketing portal from classic ASP to ASP.NET Web Forms, implementing product ordering, event scheduling, and franchise-corporate communication systems
 - **Nonprofit Digital Transformation:** Analyzed and documented business processes for large humanitarian nonprofit, designing migration strategy from closed-source Windows application to open-source platform
 - **Custom Application Development:** Created property management system replacing 10-year-old Access database and fully customized case management application for Chicago south side community advocacy nonprofit, transitioning paper-driven workflows to electronic processes
 
@@ -183,24 +187,25 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 ---
 
-## Technical Proficiencies
+## Technical Proficiencies & Keyword Soup
 
 ### Cloud & Modern Architecture
 
-- **Azure Ecosystem:** API Manager, Functions, Cosmos DB, App Services, Storage, Queues, AD B2C, Key Vault, Application Insights
+- **AI-Assisted Development:** Claude Code for architecture validation, security and performance code review, and accelerated UX and boilerplate development
 - **Microservices & APIs:** GraphQL, REST APIs, containerization, cloud-native development patterns
-- **AI Integrations:**
+- **Azure Ecosystem:** API Manager, Functions, Cosmos DB, App Services, Storage, Queues, AD B2C, Key Vault, Application Insights
 
 ### E-commerce & Frontend Development
 
 - **Shopify Excellence:** Theme architecture, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM,
-- **Modern Frontend:** React Router, TypeScript, Tailwind, shadcn/ui, responsive design, progressive web applications
+- **Modern Frontend:** React Router, TypeScript, Tailwind, shadcn/ui, Supabase, responsive design, progressive web applications
+- **Enterprise Integrations:** Shopify, Salesforce, Klaviyo, Algolia, Nosto, Marketplacer, Yotpo, Global-E, Avalara, Recharge Subscriptions, Shogun Pagebuilder, Loop Returns, Okta/Auth0, Amplience, Netlify
 
 ### Development & Data Management
 
 - **Microsoft Stack:** C#, .NET Framework/.NET Core, ASP.NET, Entity Framework, SQL Server, Visual Studio
 - **Database Management:** RDBMS design, performance optimization, data integration, ETL processes
-- **Development Operations:** Azure DevOps (Boards, Repos, Pipelines), CI/CD, Git, automated testing
+- **Development Operations:** Azure DevOps (Boards, Repos, Pipelines), Github (Actions, Projects, Agents), CI/CD, Git, automated testing
 
 ### Project Management & Collaboration
 
@@ -231,12 +236,10 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 **Fitness & Wellness:** Marathon runner, [Chicago Area Runners Association](https://cararuns.org) volunteer (site coordinator and pace leader), #drovani on Peloton leaderboards
 
-**Lifelong Learning:** Over 2 years of Spanish language study through Duolingo, avid reader across technology and business domains
+**Lifelong Learning:** Over 5 years of Spanish language, chess, and math study through Duolingo; avid reader across technology and business domains
 
 **Creative Pursuits:** Passionate cook, handyman, occasional motorcyclist
 
-**Professional Development:** Continuous learning mindset with focus on emerging technologies, leadership methodologies, and industry best practices
-
 ---
 
-_This comprehensive overview represents 19+ years of progressive technology leadership focused on delivering measurable business impact while developing high-performing teams and modernizing organizational capabilities. Currently consulting through Rovani Projects on transformational platform migrations, enterprise architecture, and mission-driven technology implementations. Available for strategic technology partnerships where innovation, mentorship, and results-driven execution create sustainable competitive advantage._
+_This comprehensive overview represents 19+ years of progressive technology leadership focused on delivering measurable business impact while developing high-performing teams and modernizing organizational capabilities. Currently consulting through Rovani Projects on platform migrations, enterprise architecture, and mission-driven technology implementations. Available for strategic technology partnerships where innovation, mentorship, and results-driven execution create sustainable competitive advantage._
