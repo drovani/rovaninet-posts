@@ -42,6 +42,19 @@ Technology leader with 19+ years of progressive experience driving digital trans
 - Architected data model and application foundation enabling Propel America's internal developer to independently expand the platform for active fellows and program graduates
 - Delivered strategic outcome of reducing average application processing time from three weeks to six days; compelling enough that Propel America redirected their full internal technical team toward portal expansion as primary initiative
 
+**Dooney & Bourke (via RunDTC): Solutions Architect, Ongoing Shopify Plus Maintenance & Support**
+
+- Serving as technical lead for a Shopify Plus + POS storefront integrated with Salsify, ESW, Workato, Salesforce OMS, and Bynder, owning JIRA backlog refinement, estimation, and assignment across RunDTC and Dooney engineering
+- Architected the cross-border replacement of Global-E with ESW; led the production release of Marqo AI search and discovery replacing SearchSpring
+- Implemented extensive Shopify Flow workflows to automate many manual processes, saving 2-4 hours of staff time per week
+
+**Mud Pie (via RunDTC): Solutions Architect, Magento to Shopify Plus Migration**
+
+- Architected the end-to-end replatform from Magento to Shopify Plus, defining the data migration strategy for products, customers, orders, and content, and the integration architecture across i95dev (Dynamics 365 F&O connector), Avalara, and Bynder
+- Designed the product data schema and mapping that served as the single source of truth for both the catalog migration and the ERP integration, covering simple, variant, and combined-listing products
+- Translated business requirements into a development backlog for an offshore dev team building on Shopify's Horizon theme, serving as primary technical escalation point through launch
+- Established the environment and launch infrastructure strategy, including staging/production storefronts, Avalara tax integration, Cloudflare redirects, and Shopify-native bot protection, and shaped the Phase 2 roadmap for post-launch enhancements
+
 ---
 
 ### Chief Technology Officer | National Business Institute (NBI, Inc.) | Remote
@@ -199,7 +212,7 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 - **Shopify Excellence:** Theme architecture, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM,
 - **Modern Frontend:** React Router, TypeScript, Tailwind, shadcn/ui, Supabase, responsive design, progressive web applications
-- **Enterprise Integrations:** Shopify, Salesforce, Klaviyo, Algolia, Nosto, Marketplacer, Yotpo, Global-E, Avalara, Recharge Subscriptions, Shogun Pagebuilder, Loop Returns, Okta/Auth0, Amplience, Netlify
+- **Enterprise Integrations:** Shopify, Shopify Flow, Salesforce, Klaviyo, Algolia, Nosto, Marqo, Marketplacer, Yotpo, Global-E, ESW, Avalara, Recharge Subscriptions, Shogun Pagebuilder, Loop Returns, Okta/Auth0, Amplience, Netlify, Cloudflare
 
 ### Development & Data Management
 
