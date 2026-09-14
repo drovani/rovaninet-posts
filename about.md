@@ -210,7 +210,7 @@ Technology leader with 19+ years of progressive experience driving digital trans
 
 ### E-commerce & Frontend Development
 
-- **Shopify Excellence:** Theme architecture, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM,
+- **Shopify Excellence:** Theme architecture, Hydrogen, Remix, Liquid, CSS, HTML, Node, NPM, NVM
 - **Modern Frontend:** React Router, TypeScript, Tailwind, shadcn/ui, Supabase, responsive design, progressive web applications
 - **Enterprise Integrations:** Shopify, Shopify Flow, Salesforce, Klaviyo, Algolia, Nosto, Marqo, Marketplacer, Yotpo, Global-E, ESW, Avalara, Recharge Subscriptions, Shogun Pagebuilder, Loop Returns, Okta/Auth0, Amplience, Netlify, Cloudflare
 
